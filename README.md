@@ -9,6 +9,6 @@ Left click on adjacent blocks to mine them.
 
 Right click on adjacent spaces that are empty to place blocks.
 
-Left click on materials on the top tab to switch your selected material.
+Left click on materials on the top tab to switch your selected material. The number displayed is the amount of available blocks you have in that material.
 
 Left click on "restart" to enter a new map.
