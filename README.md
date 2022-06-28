@@ -1,7 +1,7 @@
 # block-miner
 https://matthewperrywa.github.io/block-miner/
 
-Sandbox style mining game where players can mine and place blocks on a procedurally generated terrain.
+Sandbox mining game where players can mine and place blocks on a procedurally generated terrain.
 
 Use WASD or arrow keys to move.
 
